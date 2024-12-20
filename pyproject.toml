@@ -12,7 +12,7 @@ exclude = ["tests/**/*", "docs/**/*", "examples/**/*", "scripts/**/*"]
 
 
 [tool.poetry.dependencies]
-python = ">=3.10,<3.13"
+python = ">=3.10"
 qtpy = "^2.4.1"
 
 [tool.poetry.dev-dependencies]
